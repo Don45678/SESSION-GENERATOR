@@ -1,5 +1,5 @@
-// get qr  code of any bot using this ....................
-//coded  by wasi
+z// get qr  code of any bot using this ....................
+//coded  by don
 
 
 const express = require("express");
@@ -17,14 +17,14 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ┌───⭓『
-❒ *WASI-MD*
+❒ *DON-MD*
 ❒ _NOW DEPLOY IT_
 └────────────⭓
 ┌───⭓
 ❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/WASI-MD_
-❒ *Author:* _wa.me/923192173398_
-❒ *YT:* _https://youtube.com/@wasitech10_
+❒ *GitHub:* __https://github.com/Don45678_
+❒ *Author:* _wa.me/27693555221_
+❒ *YT:* _https://youtube.com/@anshtechie_
 └────────────⭓
 `
 
